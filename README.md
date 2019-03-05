@@ -11,6 +11,8 @@ first you should set shorter.py as an executable file with this command :
 
     $ chmod +x shorter.py
 
-after you can access it from everywhere with this command: 
+after you can access it from everywhere 
+forexample with this command the google page has pop up: 
 
     $ shorter -w gogol
+
