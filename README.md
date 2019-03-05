@@ -1,4 +1,4 @@
-# shortit
+# Shortit
 Simple terminal tool for redirecting to your most wanted URLs 
 
 
