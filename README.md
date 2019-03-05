@@ -1,2 +1,2 @@
 # shortit
-Simple tool for redirecting to your most wanted URLs 
+Simple teminal tool for redirecting to your most wanted URLs 
