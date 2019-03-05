@@ -9,8 +9,8 @@ you should first set your default urls with the wanted short key and then add it
 first you should set shorter.py as an executable file with this command : 
 
 
-$ chmod +x shorter.py
+    $ chmod +x shorter.py
 
 after you can access it from everywhere with this command: 
 
-$ shorter -w gogol
+    $ shorter -w gogol
