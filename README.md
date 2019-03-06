@@ -6,14 +6,11 @@ this tool help you to access urls that you want through your terminal by adding 
 
 # How to use it in linux
 first you can add your wanted urls with their short keys into the script
-then you should set shorter.py as an executable file with this command : 
-
-    $ chmod +x shorter.py
+then you should set shorter.py as an executable file 
 
 # NOW    
-add shorter.py to your 'bin' folder to access it from everywhere 
 
-forexample with this command the google page has pop up: 
+with this command the google page has pop up: 
 
     $ shorter -w gogol
 
